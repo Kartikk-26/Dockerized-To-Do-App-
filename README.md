@@ -89,7 +89,7 @@ To run this project locally, follow these steps:
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone :  https://github.com/Kartikk-26/Dockerized-To-Do-App-.git
 cd To-Do-App
 ```
 
@@ -161,10 +161,10 @@ You can modify the `docker-compose.yml` file to use different ports or customize
 
 ### Example Screenshot 📸:
 -> Docker-Hub-Record
-![Docker-Hub](./assets/DockerHub.png)
+![Docker-Hub](./Assets/DockerHub.png)
 
 -> To-Do-List-Application
-![To-Do App Screenshot](./assets/To-Do-List-APP.png)
+![To-Do App Screenshot](./Assets/To-Do-List-APP.png)
 
 ---
 
